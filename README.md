@@ -4,7 +4,6 @@
 Turn raw spreadsheets into simple, clear insights using **AI** – no data science skills needed.
 
 ![AI Analyst Banner](https://img.shields.io/badge/Made%20With-Streamlit-blue?style=for-the-badge)
-![LLM Powered](https://img.shields.io/badge/LLM-LLaMA3%208B-Groq-orange?style=for-the-badge)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)
 
 ---
